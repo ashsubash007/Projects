@@ -24,7 +24,6 @@ public class Calculator {
             return;
         }
 
-        
         double result = evaluateExpression(tokens);
         System.out.println("Result: " + result);     
     }
@@ -55,13 +54,3 @@ public class Calculator {
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
